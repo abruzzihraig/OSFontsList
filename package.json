@@ -1,0 +1,22 @@
+{
+  "name": "os-font",
+  "version": "0.0.1",
+  "description": "A string collection shows what kind of font included in popular OS.",
+  "main": "index.json",
+  "scripts": {
+    "prepublish": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abruzzihraig/OSFontsList.git"
+  },
+  "keywords": [
+    "font"
+  ],
+  "author": "Abruzzi Hraig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abruzzihraig/OSFontsList/issues"
+  },
+  "homepage": "https://github.com/abruzzihraig/OSFontsList#readme"
+}
